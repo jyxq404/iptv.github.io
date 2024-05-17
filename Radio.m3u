@@ -79,7 +79,7 @@ http://hls.njgb.com/live_hls/4/playlist.m3u8
 https://radio.pull.hebtv.com/live/hebqcyy.m3u8
 #EXTINF:-1 radio=true tvg-logo="http://live.cooltv.top/logo/sx988.png" group-title="音乐广播",陕西音乐广播
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
-#EXTINF:-1 radio=true tvg-id="广州汽车音乐电台" tvg-name="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1 radio=trueGGmaZ_550x550.jpg" group-title="音乐广播",广州汽车音乐
+#EXTINF:-1 radio=true tvg-id="广州汽车音乐电台" tvg-name="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="音乐广播",广州汽车音乐
 https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
 #EXTINF:-1 radio=true tvg-id="深圳音乐广播" tvg-name="音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="音乐广播",深圳音乐广播
 https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8

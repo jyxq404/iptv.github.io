@@ -499,7 +499,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 group-title="国际",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/wion.png" group-title="国际",Wion News
+#EXTINF:-1 group-title="国际",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
@@ -521,12 +521,8 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",TBS
-http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
@@ -535,18 +531,14 @@ https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际",Disney International
-http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际",&Flix HD
-http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际",Wild Planet
-https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+#EXTINF:-1 group-title="国际",FIFA+
+https://https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="国际",Clarity 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 group-title="国际",Stadium
